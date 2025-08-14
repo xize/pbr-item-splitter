@@ -1,0 +1,10 @@
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.csproj.AssemblyReference.cache
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.Window.resources
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.Properties.Resources.resources
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.csproj.GenerateResource.cache
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\bin\Debug\pbr_line_split.exe.config
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\bin\Debug\pbr_line_split.exe
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\bin\Debug\pbr_line_split.pdb
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.exe
+C:\Users\developer\source\repos\pbr_line_split\pbr_line_split\obj\Debug\pbr_line_split.pdb
